@@ -1,6 +1,5 @@
 artifact
 cache
-config/private/*
 \[assets\]
 
 !*.gitkeep
