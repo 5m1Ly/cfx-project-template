@@ -1,6 +1,8 @@
 artifact
 cache
+
+server.cfg
+
 \[assets\]
 
 !*.gitkeep
-!*.bkp.cfg
